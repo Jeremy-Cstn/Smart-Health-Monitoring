@@ -1,0 +1,10 @@
+.idea/
+vcs.xml
+/data/*.csv
+benchmarking/data/*.csv
+.idea/vcs.xml
+.idea/Health-Monitoring-simulation.iml
+.idea/misc.xml
+sensor-sim/__pycache__/sensor_simulation.cpython-311.pyc
+*.xml
+
